@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 import '../widgets/buildable.dart';
 import 'components/bottom_nav_bar.dart';
 import 'components/build_home_view.dart';
